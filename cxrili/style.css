@@ -1,0 +1,146 @@
+*{
+    box-sizing: border-box;
+}
+@font-face {
+    font-family: "inter";
+    src: url("Inter-Regular.ttf");
+}
+body{
+    margin: 0;
+}
+.container{
+    width: 1170px;
+    margin: auto;
+    margin-top: 28px;
+    display: flex;
+}
+.h2{
+    color: #000000;
+    width: 1170px;
+    font-size: 25px;
+    font-weight: 700;
+    font-family: inter;
+    margin: auto;
+}
+label{
+    color: #000000;
+    font-size: 15px;
+    font-weight: 700;
+    font-family: inter;
+}
+.section2{
+    margin-left: 19px;
+}
+.section3{
+    margin-left: 18px;
+}
+.IDCreatedat{
+    width: 201px;
+    height: 45px;
+    border:1px solid #e0e0e0;
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+.inputTitle{
+    width: 593px;
+    height: 45px;
+    border:1px solid #e0e0e0;
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+.Search{
+    color: #000000;
+    width: 115px;
+    height: 45px;
+    font-size: 15px;
+    font-weight: 500;
+    font-family: inter;
+    background-color: #FFD43A;
+    border: none;
+    border-radius: 10px;
+    margin-left: 23px;
+}
+#labelAction{
+    margin-left: 40px;
+}
+::placeholder{
+    color: #EBEBEB;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: inter;
+}
+
+table{
+    border-collapse: collapse;
+    border: 1px solid #dadada;
+    font-size: 15px;
+    margin-top: 23px;
+    margin: auto;
+    text-align: center;
+    font-family: inter;
+}
+thead{
+    color: #000000;
+    background-color: #f9f9f9;
+    font-weight: 700;
+}
+.th1{
+    width: 72px;
+    height: 57px;
+}
+.th2{
+    width: 444px;
+    height: 57px;
+    text-align: left;
+    padding-left: 23px;
+}
+.th3{
+    width: 276px;
+    height: 57px;
+}
+.th4th5{
+    width: 190px;
+    height: 57px;
+}
+.NewsTable{
+    color: #000000;
+    width: 1170px;
+    font-family: inter;
+    font-size: 25px;
+    font-weight: 700;
+    margin: auto;
+    margin-top: 66px;
+}
+tr td{
+    color: #000000;
+    font-weight: 500;
+    height: 57px;
+}
+.sveti1{
+    font-weight: 700;
+}
+.sveti2{
+    text-align: left;
+    padding-left: 23px;
+    font-weight: 500;
+}
+.sveti3{
+    color: #ff0000;
+}
+.edit{
+    width: 115px;
+    height: 36px;
+    background-color:#FFD43A ;
+    border:none;
+    margin: auto;
+}
+.edit2{
+    width: 115px;
+    height: 36px;
+    background-color: #ff0000;
+    border: none;
+}
+
+
+
+
